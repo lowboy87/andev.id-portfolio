@@ -406,30 +406,6 @@ export const projects: Project[] = [
       "UI modern & intuitif",
     ],
   },
-  {
-    id: "simbangizi",
-    title: "SIMBANGIZI",
-    description:
-      "Sistem Monitoring dan Pengawasan Program Makan Bergizi Sekolah (MBG). Platform digital terintegrasi untuk memastikan setiap anak Indonesia mendapatkan makanan bergizi yang sesuai standar dan tepat sasaran.",
-    longDescription:
-      "SIMBANGIZI adalah platform digital terintegrasi untuk monitoring dan pengawasan Program Makan Bergizi Sekolah (MBG) secara nasional. Sistem ini mencakup 34+ provinsi, 50K+ sekolah, dan 20M+ penerima MBG. Dilengkapi dengan dashboard monitoring real-time, sistem pelaporan, manajemen multi-role pengguna, dan transparansi data untuk seluruh pemangku kepentingan.",
-    thumbnail: "/images/projects/simbangizi-thumb.jpg",
-    gallery: [],
-    tech: ["PHP Native", "MySQL", "Bootstrap", "JavaScript", "Chart.js"],
-    category: "Sistem Informasi",
-    year: 2025,
-    status: "completed",
-    features: [
-      "Monitoring 34+ provinsi",
-      "Data 50K+ sekolah",
-      "20M+ penerima MBG",
-      "Dashboard real-time",
-      "Sistem pelaporan",
-      "Multi-role management",
-      "Transparansi & akuntabilitas",
-      "Sistem login terintegrasi",
-    ],
-  },
    ];  
 
 export const projectCategories = [
