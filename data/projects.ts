@@ -383,6 +383,7 @@ export const projects: Project[] = [
       "Prototype interaktif",
     ],
   },
+   ];  
 
 export const projectCategories = [
   "Semua",
