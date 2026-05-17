@@ -362,6 +362,19 @@ export const projects: Project[] = [
       "Dashboard analitik",
     ],
   },
+  {
+    id: 7,
+    title: "Redesain Website Biro Perekonomian",
+    subtitle: "Redesain UI/UX Website Instansi Pemerintah Provinsi Riau",
+    description:
+      "Proyek redesain tampilan website resmi Biro Perekonomian Setda Provinsi Riau. Fokus pada peningkatan UI/UX, keterbacaan informasi publik, navigasi yang lebih intuitif, serta tampilan yang lebih modern dan profesional.",
+    image: "/biro-perekonomian.jpg",
+    technologies: ["Figma", "UI/UX Design", "Redesain", "Government Website"],
+    category: "Website",
+    demoUrl: "#",
+    githubUrl: "#",
+    featured: true,
+  },
 ];
 
 export const projectCategories = [
