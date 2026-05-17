@@ -383,6 +383,29 @@ export const projects: Project[] = [
       "Prototype interaktif",
     ],
   },
+  {
+    id: "jual-beli-kita",
+    title: "JBK - Jual Beli Kita",
+    description:
+      "Aplikasi marketplace mobile Jual Beli Kita (JBK) untuk jual beli produk secara online dengan tampilan modern dan user-friendly.",
+    longDescription:
+      "JBK (Jual Beli Kita) adalah aplikasi marketplace mobile yang dirancang untuk memudahkan transaksi jual beli online. Dilengkapi dengan fitur pencarian produk, profil pengguna, sistem following, feed produk, chat antar pengguna, dan manajemen listing produk dengan desain UI yang modern dan intuitif.",
+    thumbnail: "/images/projects/jbk-thumb.jpg",
+    gallery: [],
+    tech: ["Figma", "UI/UX Design", "Mobile App", "Marketplace"],
+    category: "Mobile App",
+    year: 2025,
+    status: "completed",
+    features: [
+      "Feed produk marketplace",
+      "Profil pengguna",
+      "Sistem following",
+      "Pencarian produk",
+      "Chat antar pengguna",
+      "Listing produk",
+      "UI modern & intuitif",
+    ],
+  },
    ];  
 
 export const projectCategories = [
